@@ -1,4 +1,4 @@
-namespace broodwar03.Models;
+namespace broodwar.Models;
 
 public class ErrorViewModel
 {

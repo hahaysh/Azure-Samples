@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using broodwar03.Models;
+using broodwar.Models;
 
-namespace broodwar03.Controllers;
+namespace broodwar.Controllers;
 
 public class HomeController : Controller
 {
